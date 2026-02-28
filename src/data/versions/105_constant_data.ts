@@ -1,4 +1,4 @@
-export let constants = 
+export let constants =
 {
   "classes": [
     {
@@ -12802,7 +12802,7 @@ export let constants =
       "tc": "lgry"
     },
     {
-      "n": "Mindrend",
+      "n": "Skull Splitter",
       "i": "invmpiu",
       "c": "mpi",
       "tc": "lgrn"
@@ -12813,7 +12813,7 @@ export let constants =
       "tc": "dgry"
     },
     {
-      "n": "Fechmars Axe",
+      "n": "Axe of Fechmar",
       "c": "lax",
       "tc": "lpur"
     },
@@ -12823,7 +12823,7 @@ export let constants =
       "tc": "dpur"
     },
     {
-      "n": "The Chieftan",
+      "n": "The Chieftain",
       "i": "invbtxu",
       "c": "btx",
       "tc": "oran"
@@ -12835,18 +12835,18 @@ export let constants =
       "tc": "whit"
     },
     {
-      "n": "The Humongous",
+      "n": "Humongous",
       "c": "gix",
       "tc": "blac"
     },
     {
-      "n": "Iros Torch",
+      "n": "Torch of Iro",
       "i": "invwndu",
       "c": "wnd",
       "tc": "cred"
     },
     {
-      "n": "Maelstromwrath",
+      "n": "Maelstrom",
       "c": "ywn",
       "tc": "dblu"
     },
@@ -12910,7 +12910,7 @@ export let constants =
       "tc": "cblu"
     },
     {
-      "n": "Bonesob",
+      "n": "Bonesnap",
       "i": "invmauu",
       "c": "mau",
       "tc": "lred"
@@ -12933,7 +12933,7 @@ export let constants =
       "tc": "lblu"
     },
     {
-      "n": "Krintizs Skewer",
+      "n": "Skewer of Krintiz",
       "i": "inv9sbu",
       "c": "sbr",
       "tc": "cblu"
@@ -13018,7 +13018,7 @@ export let constants =
       "tc": "oran"
     },
     {
-      "n": "Irices Shard",
+      "n": "Spectral Shard",
       "c": "bld",
       "tc": "dblu"
     },
@@ -13090,7 +13090,7 @@ export let constants =
       "tc": "cgrn"
     },
     {
-      "n": "Lazarus Spire",
+      "n": "Spire of Lazarus",
       "i": "invcstu",
       "c": "cst",
       "tc": "lgry"
@@ -13116,18 +13116,18 @@ export let constants =
       "tc": "lred"
     },
     {
-      "n": "Rimeraven",
+      "n": "Ravenclaw",
       "c": "lbw",
       "tc": "dred"
     },
     {
-      "n": "Piercerib",
+      "n": "Rogues Bow",
       "i": "invcbwu",
       "c": "cbw",
       "tc": "cred"
     },
     {
-      "n": "Pullspite",
+      "n": "Stormstrike",
       "i": "invsbbu",
       "c": "sbb",
       "tc": "lgrn"
@@ -13167,13 +13167,13 @@ export let constants =
       "tc": "dgld"
     },
     {
-      "n": "Doomspittle",
+      "n": "Doomslinger",
       "i": "invrxbu",
       "c": "rxb",
       "tc": "lpur"
     },
     {
-      "n": "War Bonnet",
+      "n": "Biggins Bonnet",
       "i": "invcapu",
       "c": "cap",
       "tc": "dpur"
@@ -13252,7 +13252,7 @@ export let constants =
       "tc": "lyel"
     },
     {
-      "n": "Venomsward",
+      "n": "Venom ward",
       "c": "brs",
       "tc": "dyel"
     },
@@ -13283,7 +13283,7 @@ export let constants =
       "tc": "oran"
     },
     {
-      "n": "Victors Silk",
+      "n": "Silks of the Victor",
       "i": "invaaru",
       "c": "aar",
       "tc": "dblu"
@@ -13392,7 +13392,7 @@ export let constants =
       "tc": "dgrn"
     },
     {
-      "n": "Lenyms Cord",
+      "n": "Lenymo",
       "c": "lbl",
       "tc": "cgrn"
     },
@@ -13493,7 +13493,7 @@ export let constants =
       "c": "92a"
     },
     {
-      "n": "Pompe's Wrath",
+      "n": "Pompeii Wrath",
       "i": "invmpiu",
       "c": "9mp",
       "tc": "cred"
@@ -13524,7 +13524,7 @@ export let constants =
       "c": "9ga"
     },
     {
-      "n": "The Minataur",
+      "n": "The Minotaur",
       "i": "inv9giu",
       "c": "9gi"
     },
@@ -13640,7 +13640,7 @@ export let constants =
       "c": "9ls"
     },
     {
-      "n": "The Atlantian",
+      "n": "The Atlantean",
       "c": "9wd",
       "tc": "lblu"
     },
@@ -13796,7 +13796,7 @@ export let constants =
       "c": "8cb"
     },
     {
-      "n": "Whichwild String",
+      "n": "Witchwild String",
       "i": "inv8s8u",
       "c": "8s8",
       "tc": "lblu"
@@ -13813,7 +13813,7 @@ export let constants =
       "tc": "oran"
     },
     {
-      "n": "Godstrike Arch",
+      "n": "Goldstrike Arch",
       "c": "8lw",
       "tc": "lgry"
     },
@@ -13823,7 +13823,7 @@ export let constants =
       "c": "8lx"
     },
     {
-      "n": "Pus Spiter",
+      "n": "Pus Spitter",
       "i": "inv8mxu",
       "c": "8mx",
       "tc": "cgrn"
@@ -13862,7 +13862,7 @@ export let constants =
       "tc": "blac"
     },
     {
-      "n": "Valkiry Wing",
+      "n": "Valkyrie Wing",
       "c": "xhm",
       "tc": "lgld"
     },
@@ -13893,7 +13893,7 @@ export let constants =
       "tc": "dblu"
     },
     {
-      "n": "Skin of the Flayerd One",
+      "n": "Skin of the Flayed One",
       "c": "xla",
       "tc": "lred"
     },
@@ -13977,13 +13977,13 @@ export let constants =
       "tc": "lgry"
     },
     {
-      "n": "Kerke's Sanctuary",
+      "n": "Gerke's Sanctuary",
       "i": "invtowu",
       "c": "xow",
       "tc": "lgrn"
     },
     {
-      "n": "Radimant's Sphere",
+      "n": "Radament's Sphere",
       "i": "invgtsu",
       "c": "xts"
     },
@@ -14245,7 +14245,7 @@ export let constants =
       "c": "pa9"
     },
     {
-      "n": "Cutthroat1",
+      "n": "Bartuc's Cutthroat",
       "c": "9tw"
     },
     {
@@ -14285,7 +14285,7 @@ export let constants =
       "tc": "lgrn"
     },
     {
-      "n": "Razoredge",
+      "n": "Razor's Edge",
       "i": "invhaxu",
       "c": "7ha",
       "tc": "lblu"
@@ -14313,7 +14313,7 @@ export let constants =
       "tc": "lyel"
     },
     {
-      "n": "Deaths's Web",
+      "n": "Death's Web",
       "c": "7gw",
       "tc": "bwht"
     },
@@ -14370,7 +14370,7 @@ export let constants =
       "tc": "blac"
     },
     {
-      "n": "Cerebus",
+      "n": "Cerebus' Bite",
       "c": "drb",
       "tc": "bwht"
     },
@@ -14381,7 +14381,7 @@ export let constants =
       "tc": "dblu"
     },
     {
-      "n": "Souldrain",
+      "n": "Souldrainer",
       "c": "umg",
       "tc": "dred"
     },
@@ -14417,7 +14417,7 @@ export let constants =
       "tc": "lgry"
     },
     {
-      "n": "Wisp",
+      "n": "Wisp Projector",
       "c": "rin",
       "tc": "bwht"
     },
@@ -14473,7 +14473,7 @@ export let constants =
       "tc": "blac"
     },
     {
-      "n": "Darkforge Spawn",
+      "n": "Darkforce Spawn",
       "c": "nef",
       "tc": "cred"
     },
@@ -14565,7 +14565,7 @@ export let constants =
       "tc": "dgrn"
     },
     {
-      "n": "Steel Carapice",
+      "n": "Steel Carapace",
       "c": "uul",
       "tc": "dgry"
     },
@@ -14724,7 +14724,7 @@ export let constants =
       "tc": "lgry"
     },
     {
-      "n": "Ironward",
+      "n": "Astreons Ironward",
       "c": "7ws",
       "tc": "blac"
     },
@@ -14768,7 +14768,7 @@ export let constants =
       "c": "6cs"
     },
     {
-      "n": "The Reedeemer",
+      "n": "The Redeemer",
       "c": "7sc"
     },
     {
